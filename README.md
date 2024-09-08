@@ -11,5 +11,3 @@ This project focuses on the development and implementation of battery swapping s
 In this project, I explore the technical aspects of battery swapping systems, their potential integration into the current EV infrastructure, and the associated challenges such as standardization, costs, and user adoption. The project also includes a comparative analysis of battery swapping vs. conventional charging and its implications for the future of sustainable transportation. 
 
 ---
-
-This description briefly explains the topic and the scope of your project, making it clear and engaging for visitors to your GitHub repository.
